@@ -1,0 +1,4 @@
+module apps.nosteletekst
+NosteletekstScreen 1.0 NosteletekstScreen.qml
+NosteletekstApp 1.0 NosteletekstApp.qml
+
